@@ -13,5 +13,4 @@ function momentu_js_scripts() {
 }
 add_action( 'wp_enqueue_scripts', 'momentu_js_scripts' );
 
-
 ?>
